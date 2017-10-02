@@ -1,5 +1,7 @@
 CSE589 Modern Networking Concepts Course Projects
 
+All code write in C, file path: cse489589_assignment*/src/
+
 Assignment_1:
 Chatting Application. 
 Applied TCP/IP protocol and socket programming.
