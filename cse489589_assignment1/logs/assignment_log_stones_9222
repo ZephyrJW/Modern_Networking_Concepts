@@ -1,0 +1,17 @@
+[IP:SUCCESS]
+IP:128.205.36.46
+[IP:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.36
+[msg]:hi
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.36
+[msg]:hi there
+[RELAYED:END]
+[STATISTICS:SUCCESS]
+1    underground.cse.buffalo.edu        0       2       logged-in
+2    euston.cse.buffalo.edu             3       0       logged-in
+[STATISTICS:END]
+[EXIT:SUCCESS]
+[EXIT:END]
